@@ -37,7 +37,6 @@ class FuncioneSpec extends AnyFlatSpec with Matchers {
     Funciones.factorial(5) shouldEqual 120
   }
 
-
   "El fibonacci de 2" should " 1 " in {
     Funciones.func(2) shouldEqual 1
   }
