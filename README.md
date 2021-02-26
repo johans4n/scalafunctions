@@ -4,8 +4,9 @@ ScalaFunctions es una colección de ejemplos de varias funciones entre las cuale
 
 ## Requisitos
 
--Sbt
--Scala 2.13.4 como mínimo
+-*Sbt
+
+-*Scala 2.13.4 como mínimo
 
 ## Implementación
 ```
